@@ -9,12 +9,16 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A simple ALU that has 4 opcodes: 
+00 - ADD
+01 - SUBTRACT
+10 - AND
+11 - XOR
 
 ## How to test
 
-Explain how to use your project
+Set digital pins and opbserve output pins
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
